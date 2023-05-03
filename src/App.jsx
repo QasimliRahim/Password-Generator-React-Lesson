@@ -16,6 +16,8 @@ function App() {
       </div>
       {/* Modal */}
       <div className="generator">
+        <h2 className="generator__title">Password Generator</h2>
+        <h4 className="password">Your Password</h4>
         <form className="generator__form">
           <div className="generator__form-controls">
             <div className="generator__form-control">
