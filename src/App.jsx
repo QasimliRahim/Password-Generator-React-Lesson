@@ -3,8 +3,6 @@ import "./App.css";
 // Data
 import { upperCaseLetters, lowerCaseLetters, numbers, special } from "./data";
 
-// Components
-import Modal from "./Components/Modal";
 
 function App() {
   return (
